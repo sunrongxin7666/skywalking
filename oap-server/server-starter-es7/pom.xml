@@ -44,6 +44,12 @@
             <artifactId>storage-elasticsearch7-plugin</artifactId>
             <version>${project.version}</version>
         </dependency>
+        <dependency>
+            <groupId>org.apache.skywalking</groupId>
+            <artifactId>storage-elasticsearch7-mq-plugin</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+
 
         <!-- profile exporter -->
         <dependency>
